@@ -5,6 +5,7 @@ membuat web untuk pengelolahan kuliner dan bisnis kuliner sedap
 - Web Gaming
 bisa membuat sebuah website game yang dapat dimainkan secara online
 
-- web framework
+- Web Market
+membuat website penjualan online yang menyediakan segala sesuatu
 
 - Web parallax effect
