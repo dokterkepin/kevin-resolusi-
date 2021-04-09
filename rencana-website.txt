@@ -7,3 +7,5 @@ bisa membuat sebuah website game yang dapat dimainkan secara online
 
 - Web Market
 membuat website penjualan online yang menyediakan segala sesuatu
+
+- Web parallax effect
